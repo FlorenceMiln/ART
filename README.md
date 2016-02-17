@@ -1,23 +1,16 @@
-ART is an Arduino like board with STM32F407VGT6 (ARM Cortex-M4) chip. 
-RT-Thread RTOS is running as a platform in this board.
-- Arduino hardware/software compatible.
-- 32bit ARM Cortex-M4 with FPU.
-- Running multi-Arduino Program in parallel.
-
-Hardware Information
+Tools for sketching
 --------------------
-- ARM 32-bit Cortex-M4 CPU with FPU
-- 168 MHz maximum frequency, 210 DMIPS/1.25 DMIPS/MHz
-- 1 Mbyte of Flash memory
-- 192+4 Kbytes of SRAM
-- Serial wire debug (SWD)
-- Up to 3 UARTs
-- Up to 2 SPIs
-- 1 CAN interfaces
-- 2 USB OTG.
+I am an art lover. Because of it, I tried to learn more about it and learn different kinds of it. Among its kinds and styles, I got interested with sketching. There are plenty of tools when we say sketching, and traditionally, tools like charcoal, a felt tip pen, blending stumps, and eraser are helpful helping hand. 
 
-Software Information
---------------------
-The software of ART uses [RT-Thread] RTOS as a platform, in which this platform, the application module feature is used to execute Arduino program in parallel. 
+For the advance tool, these are essentials Poser Pro 2014, GoAnimate, SketchBook Pro, Mudbox, FlipBook 6.86, [Minecraft For Free X](http://minecraftforfreex.com/) Easy Paint Tool SAI and FL Studio 11. Enjoy as these tools will take you to another dimension of dreams and reality. Make your own art, splendid!
 
-  [RT-Thread]: http://en.rt-thread.org
+
+
+flipbook
+
+![Screenshot of 2D](http://screenshots.en.sftcdn.net/en/scrn/245000/245313/flipbook-35.jpg)
+
+
+Poser Pro 2014
+
+![Screenshot of 2D](http://i2.wp.com/downloadfullcracked.com/wp-content/uploads/2014/09/Poser-Pro-2014-Game-Dev-Pro-Full-Cracked-Download-x86-x64-PC-Mac-Linux-Cracks-Serials-and-Key-Activations-3.jpg)
